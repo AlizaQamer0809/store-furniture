@@ -1,0 +1,13 @@
+.btn-black{
+    background: transparent;
+    text-transform: capitalize;
+    font-size: 0.8rem !important;
+    color: #232528;
+    border-radius: 0 !important;
+    border:0.1rem solid #232528 !important;
+
+}
+.btn-black:hover{
+    background: #232528 !important;
+    color:white;
+}

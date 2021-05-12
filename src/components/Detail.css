@@ -1,0 +1,81 @@
+.h1{
+    color:#006666;
+    text-align: center;
+   font-family: 'Itim', cursive !important;
+    font-style: italic;
+    font-size: 50px;
+    margin-top: 80px;
+    
+}
+
+.h2{
+   
+   
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: 'Itim', cursive !important;
+    color:cornsilk;
+
+}
+.p{
+  
+    margin-top: 15px;
+    color:#006666;
+   
+}
+.madebyclass{
+    color:#006666;
+   
+    font-family: 'Itim', cursive !important;
+}
+body{
+    background-color: #CC9999   !important;
+   
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    margin-top: 180px;
+    margin-left: 50px;
+    border:2px solid gray;
+    box-shadow: 5px 10px 10px  gray;
+    transition:all 0.3s ease-in;
+}
+.img:hover{
+    box-shadow: 5px 10px 10px #18A8D8;
+    border:2px solid #18A8D8;
+}
+.addtocart{
+    background-color: darkgoldenrod;
+    margin-right: 35px;
+    box-shadow: 5px 5px 5px rgb(156, 126, 51);
+    font-size: 30px;
+    color:rgb(158, 187, 187);
+    padding: 10px;
+    
+    transition:all 0.3s ease-in;
+   
+}
+
+
+
+.backtoproducts{
+    background-color: #4E11A8;
+    box-shadow: 5px 5px 5px #54318a ;
+    margin-top: -400px;
+    margin-left: 200px;
+    font-size: 30px;
+    color:rgb(158, 187, 187);
+    padding: 10px;
+    
+    transition:all 0.3s ease-in;
+    
+}
+
+.addtocart:hover{
+    background-color:rgb(156, 126, 51) ;
+}
+.backtoproducts:hover{
+    background-color: #54318a;
+}
