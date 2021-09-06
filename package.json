@@ -1,4 +1,5 @@
 {
+  "homepage": "http://AlizaQamer0809/store-furniture",
   "name": "store-furniture",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,8 @@
     "styled-components": "^5.2.3"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
