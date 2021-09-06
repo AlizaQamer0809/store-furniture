@@ -7,7 +7,7 @@ export const storeProducts = [
   {
     id: 1,
     title: "Student-Chair",
-    img: "img/product-1.png",
+    img: "https://img.ofo.co.uk/media/img/shop/srcpd/041299.jpg",
     price: 1200,
     ManufacturedBy: "Inbuilt(zain steel furniture)",
     info:
@@ -19,7 +19,7 @@ export const storeProducts = [
   {
     id: 2,
     title: "Teacher-Table",
-    img: "img/product-2.png",
+    img: "https://www.furniture-work.co.uk/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/m/f/mform_zoom_15005_4.jpg",
     price: 900,
     ManufacturedBy: "Inbuilt(zain steel furniture)",
     info:
@@ -31,7 +31,7 @@ export const storeProducts = [
   {
     id: 3,
     title: "Teacher-Chair ",
-    img: "img/product-3.png",
+    img: "https://img.ofo.co.uk/media/img/shop/srcpd/030021.jpg",
     price: 700,
     ManufacturedBy: "Inbuilt(zain steel furniture)",
     info:
@@ -43,7 +43,7 @@ export const storeProducts = [
   {
     id: 4,
     title: "Iron-Table",
-    img: "img/product-4.png",
+    img: "http://www.organizeit.com/images/pressing-table.jpg",
     price: 1800,
     ManufacturedBy: "Inbuilt(zain steel furniture)",
     info:
@@ -55,7 +55,7 @@ export const storeProducts = [
   {
     id: 5,
     title: "Cupboard",
-    img: "img/product-5.png",
+    img: "https://www.directofficesupply.co.uk/components/com_virtuemart/shop_image/product/5d57a46c1834818fec997e79d2066a191eeb7fd0_TES2045CPWH_FRONT_45_OPEN.jpg",
     price: 2400,
     ManufacturedBy: "Inbuilt(zain steel furniture)",
     info:
@@ -67,7 +67,7 @@ export const storeProducts = [
   {
     id: 6,
     title: "Study-Table",
-    img: "img/product-6.png",
+    img: "https://cdn.shopify.com/s/files/1/0049/8266/9400/products/61DCfQb8GfL._SL1001_1200x1200.jpg?v=1571715328",
     price: 2000,
     ManufacturedBy: "Inbuilt(zain steel furniture)",
     info:
@@ -79,7 +79,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "Dressing-Table",
-    img: "img/product-7.png",
+    img: "https://images.antiquesatlas.com/dealer-stock-images/artsoutine/French_Louis_Dressing_Table__S_pd011a602z-4.jpg",
     price: 3000,
     ManufacturedBy: "Inbuilt(zain steel furniture)",
     info:
@@ -91,7 +91,7 @@ export const storeProducts = [
   {
     id: 8,
     title: "Kids-Chair",
-    img: "img/product-8.png" ,
+    img: "https://n3.sdlcdn.com/imgs/a/y/o/Happy-Kids-Red-Kids-Plastic-SDL395565842-1-0c8c3.jpg" ,
     price: 1500,
     ManufacturedBy: "Inbuilt(zain steel furniture)",
     info:
